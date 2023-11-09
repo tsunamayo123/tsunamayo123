@@ -7,8 +7,8 @@
                                            |___/                     
 ```
 
-### JOIを頑張りたい競プロer
+## 競プロer(よわい)
 ![Badge](https://cp-logo.vercel.app/atcoder/tsunamayo123)
 
-### Lang(これから増やす)
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+## icons(あとで整理する)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,discord,twitter)](https://skillicons.dev)
