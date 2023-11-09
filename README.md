@@ -1,4 +1,4 @@
-[![Badge](https://cp-logo.vercel.app/atcoder/tsunamayo123)]
+![Badge](https://cp-logo.vercel.app/atcoder/tsunamayo123)
 ```
  _                                                     _ ____  _____ 
 | |_ ___ _   _ _ __   __ _ _ __ ___   __ _ _   _  ___ / |___ \|___ / 
