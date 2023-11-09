@@ -1,4 +1,3 @@
-![Badge](https://cp-logo.vercel.app/atcoder/tsunamayo123)
 ```
  _                                                     _ ____  _____ 
 | |_ ___ _   _ _ __   __ _ _ __ ___   __ _ _   _  ___ / |___ \|___ / 
@@ -7,3 +6,9 @@
  \__|___/\__,_|_| |_|\__,_|_| |_| |_|\__,_|\__, |\___/|_|_____|____/ 
                                            |___/                     
 ```
+
+### JOIを頑張りたい競プロer
+![Badge](https://cp-logo.vercel.app/atcoder/tsunamayo123)
+
+### Lang(これから増やす)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
