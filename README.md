@@ -1,14 +1,8 @@
-```
- _                                                     _ ____  _____ 
-| |_ ___ _   _ _ __   __ _ _ __ ___   __ _ _   _  ___ / |___ \|___ / 
-| __/ __| | | | '_ \ / _` | '_ ` _ \ / _` | | | |/ _ \| | __) | |_ \ 
-| |_\__ \ |_| | | | | (_| | | | | | | (_| | |_| | (_) | |/ __/ ___) |
- \__|___/\__,_|_| |_|\__,_|_| |_| |_|\__,_|\__, |\___/|_|_____|____/ 
-                                           |___/                     
-```
+# Hello! I'm tsunamayo123
 
-## 競プロer(よわい)
+## moromoro
 ![Badge](https://cp-logo.vercel.app/atcoder/tsunamayo123)
+[![Twitter Follow](https://img.shields.io/twitter/follow/define_LOCAL?style=social)](https://twitter.com/intent/follow?screen_name=define_LOCAL)
 
-## icons(あとで整理する)
+## skill(probably)
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,discord,twitter)](https://skillicons.dev)
